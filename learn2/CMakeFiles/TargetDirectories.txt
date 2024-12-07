@@ -1,0 +1,3 @@
+/home/neolcr/Nasm/learn2/CMakeFiles/my_program.dir
+/home/neolcr/Nasm/learn2/CMakeFiles/edit_cache.dir
+/home/neolcr/Nasm/learn2/CMakeFiles/rebuild_cache.dir

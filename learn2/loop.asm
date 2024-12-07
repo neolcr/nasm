@@ -23,4 +23,4 @@ print_loop:
     syscall
 
 section .data
-    char db "*", 10, 0             ; Character to print
+    char db "*"            ; Character to print

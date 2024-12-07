@@ -1,0 +1,1 @@
+/usr/bin/ld CMakeFiles/my_program.dir/calculator.asm.o -o my_program
